@@ -169,10 +169,14 @@ printf("PIB per Capita: %d\n", pib_per_capita_1 > pib_per_capita_2);
 printf("Super Poder: %d\n", SuperPoder_1 > SuperPoder_2);
 
 
+
+printf("População Carta 1 (%s): %d, População Carta 2(%s): %d.",Cidade_1,Populacao_1,Cidade_2,Populacao_2);
+printf("População Carta 1 (%s): %d, População Carta 2(%s): %d.",Cidade_1,Populacao_1,Cidade_2,Populacao_2);
+printf("Área Carta 1 (%s): %.2f, Área Carta 2(%s): %.2f.",Cidade_1,Area_1,Cidade_2,Area_2);
+printf("Área Carta 1 (%s): %.2f, Área Carta 2(%s): %.2f.",Cidade_1,Area_1,Cidade_2,Area_2);
 return 0;
 
 }
-
 
 
 
